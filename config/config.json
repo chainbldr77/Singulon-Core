@@ -1,0 +1,7 @@
+{
+    "rpc_url": "https://api.mainnet-beta.solana.com",
+    "wallet_address": "YourSolanaWalletInBase58",
+    "twitter_api_key": "",
+    "twitter_api_secret": ""
+  }
+  
